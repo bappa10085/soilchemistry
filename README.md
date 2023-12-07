@@ -1,5 +1,5 @@
 # soilchemistry
-[![CRAN](http://www.r-pkg.org/badges/version/Soilchemistry)](https://CRAN.R-project.org/package=Soilchemistry) [![License](https://img.shields.io/badge/license-GPL%20%28%3E=%203%29-lightgrey.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) [![monthly](http://cranlogs.r-pkg.org/badges/Soilchemistry)]( http://cranlogs.r-pkg.org/badges/Soilchemistry) [![total](http://cranlogs.r-pkg.org/badges/grand-total/Soilchemistry)](http://cranlogs.r-pkg.org/badges/grand-total/Soilchemistry)  [![dependencies](https://tinyverse.netlify.com/badge/Soilchemistry)]( https://CRAN.R-project.org/package=Soilchemistry)
+[![CRAN](http://www.r-pkg.org/badges/version/soilchemistry)](https://CRAN.R-project.org/package=soilchemistry) [![License](https://img.shields.io/badge/license-GPL%20%28%3E=%203%29-lightgrey.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) [![monthly](http://cranlogs.r-pkg.org/badges/soilchemistry)]( http://cranlogs.r-pkg.org/badges/soilchemistry) [![total](http://cranlogs.r-pkg.org/badges/grand-total/soilchemistry)](http://cranlogs.r-pkg.org/badges/grand-total/soilchemistry)  [![dependencies](https://tinyverse.netlify.com/badge/soilchemistry)]( https://CRAN.R-project.org/package=soilchemistry)
 
 Computation of Properties Related to Soil Chemical Environment and Nutrient Availability
 
