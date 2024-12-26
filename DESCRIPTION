@@ -1,6 +1,6 @@
 Package: soilchemistry
 Title: Computation of Properties Related to Soil Chemical Environment and Nutrient Availability
-Version: 1.0
+Version: 1.0.0
 Authors@R: 
     c(person(given = "Bappa",
            family = "Das",
